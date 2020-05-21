@@ -4,7 +4,7 @@ terraform {
     organization = "Partsunlimited"
 
     workspaces {
-      prefix = "tfe"
+      prefix = "tfe-usecase2"
     }
   }
 }
